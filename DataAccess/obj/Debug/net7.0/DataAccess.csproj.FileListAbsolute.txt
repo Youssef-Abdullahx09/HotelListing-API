@@ -1,0 +1,17 @@
+D:\ITI\DotNet\API Web Application\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\ITI\DotNet\API Web Application\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+D:\ITI\DotNet\API Web Application\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\ITI\DotNet\API Web Application\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\ITI\DotNet\API Web Application\DataAccess\bin\Debug\net7.0\Models.dll
+D:\ITI\DotNet\API Web Application\DataAccess\bin\Debug\net7.0\Models.pdb
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+D:\ITI\DotNet\API Web Application\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
